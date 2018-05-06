@@ -7,7 +7,7 @@ Set of techniques to factor arbitrary shape matrices to take advantage in some w
 
 
 ## Contents
-  * [Notebook](matrix-decomposition.pynb)
+  * [Matrix Decomposition Notebook](matrix-decomposition.ipynb)
     
     
 ## Contributors
